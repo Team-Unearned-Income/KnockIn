@@ -1,4 +1,4 @@
 [submodule "back/11th-1team-BE"]
 	path = back/11th-1team-BE
-	url = ../11th-1team-BE.git
+	url = https://github.com/prography/11th-1team-BE.git
 	branch = main

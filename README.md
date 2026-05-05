@@ -21,7 +21,8 @@ git submodule update --init --recursive
 cd back/11th-1team-BE
 
 # Upstream 원격 저장소 추가
-git remote add upstream {서브모듈 원본(Upstream) Repo URL}
+git remote rename origin upstream
+git remote add origin {서브모듈 Origin Repo URL}
 
 # 설정 확인
 git remote -v
