@@ -5,3 +5,4 @@
 [submodule "front/knock-in-rn"]
 	path = front/knock-in-rn
 	url = https://github.com/FEABE/knock-in-rn.git
+	branch = main
