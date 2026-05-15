@@ -2,3 +2,6 @@
 	path = back/11th-1team-BE
 	url = https://github.com/prography/11th-1team-BE.git
 	branch = main
+[submodule "front/knock-in-rn"]
+	path = front/knock-in-rn
+	url = https://github.com/FEABE/knock-in-rn.git
